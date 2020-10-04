@@ -1,0 +1,15 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "script": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aram Petrosyan",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
+}
